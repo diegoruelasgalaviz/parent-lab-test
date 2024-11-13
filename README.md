@@ -189,15 +189,16 @@ We're building this to last, with a focus on maintainability and scalability! ðŸ
 
 ## Test Parent Lab ðŸ§ª
 
-This project includes a comprehensive test parent lab environment that allows for:
+This project includes a comprehensive test for parent lab to validate skill to full stack development
 
-- Systematic testing of parent-child relationships
-- Controlled environment for behavioral testing
-- Standardized test delivery mechanisms
-- Automated test result collection and analysis
+The project its based of a pdf delivered to me with instructions on how to build this and how do i expect it
+to be if it build overtime to have thousands of users and collaboration from other teams thats why i picked 
+the architecture i did to keep it readable and fast
+
 
 ### Key Features
-- Isolated test environments
+- Nodejs Endpoints
+- Modular Code structure
 - Configurable test parameters
 - Real-time monitoring capabilities
 - Detailed reporting and analytics
