@@ -46,7 +46,7 @@ This project is a Next.js application that uses Firebase Firestore as its databa
 ## Technical Stack
 
 - **Frontend**: Next.js 14 with App Router
-- **Backend**: Node.js - Next.js Express Api
+- **Backend**: Node.js - Next.js Api
 - **Database**: Firebase Firestore
 - **Authentication**: Firebase Auth
 - **Styling**: [Your styling solution, e.g., Tailwind CSS]
@@ -76,6 +76,11 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 npm install
 npm run dev
 ```
+
+How PR and Commits are submitted: 
+
+Here is an example of how a PR and commits are submitted, using conventional commits and proper PR descriptions:
+https://github.com/diegoruelasgalaviz/parent-lab-test/pull/1
 
 ## Technical Decisions 🛠️
 
