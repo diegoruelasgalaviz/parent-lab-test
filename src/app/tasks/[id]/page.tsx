@@ -4,13 +4,11 @@ import { TaskDetails } from '../../modules/taskManager';
 import { Task } from '../../modules/taskManager';
 import { useEffect, useState } from 'react';
 import React from 'react';
+import { useParams } from 'next/navigation';
 
-export default function TaskDetailPage({
-  params
-}: {
-  params: { id: string }
-}) {
-    const id = params.id;
+export default function TaskDetailPage() {
+    const params = useParams();
+    const id = params?.id as string;
     const [task, setTask] = useState<Task | null>(null);
     const [isLoading, setIsLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
