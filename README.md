@@ -56,8 +56,8 @@ This project is a Next.js application that uses Firebase Firestore as its databa
 
 1. **Clone the repository**
 ```bash
-git clone [your-repo-url]
-cd [your-project-name]
+git clone https://github.com/diegoruelasgalaviz/parent-lab-test.git
+cd parent-lab-test
 ```
 
 2. **Environment Variables**
