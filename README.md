@@ -7,7 +7,7 @@ A modern, scalable task management solution built with enterprise-grade technolo
 - **Maintainability**: Clean, well-structured codebase
 - **User Experience**: Intuitive design and smooth interactions
 
-Built using React, TypeScript, Node.js and Next.js, this project serves as a reference implementation of frontend development best practices.
+Built using React, TypeScript, Node.js and Next.js, this project serves as a reference implementation of frontend and backend development best practices.
 
 ## Getting Started
 
